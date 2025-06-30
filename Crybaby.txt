@@ -114,7 +114,7 @@
 
 <main>
   <section class="center">
-    <img src="https://popmartworld.com/wp-content/uploads/2022/10/crybaby.jpg" alt="CryBaby Pop Mart" class="logo" />
+    <img src="https://images.prestigeonline.com/wp-content/uploads/sites/6/2024/12/18202109/what-is-crybaby-crybunny-cryteddy-singapore-where-to-buy.jpeg?tr=w-1920" alt="CryBaby Pop Mart" class="logo" />
   </section>
 
   <section>
