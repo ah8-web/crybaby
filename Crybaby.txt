@@ -2,181 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CryBaby (CRYB) Token</title>
-  <style>
-    body {
-      background: #f0f4f8;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: #222;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-    }
-    header {
-      background: #91c9ff;
-      color: #fff;
-      text-align: center;
-      padding: 2rem 1rem;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 3rem;
-      font-weight: 900;
-      text-shadow: 1px 1px 3px rgba(0,0,0,0.15);
-    }
-    header p {
-      font-size: 1.25rem;
-      margin-top: 0.5rem;
-      font-style: italic;
-    }
-    main {
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-    section {
-      margin-bottom: 3rem;
-    }
-    h2 {
-      border-bottom: 2px solid #91c9ff;
-      padding-bottom: 0.5rem;
-      margin-bottom: 1rem;
-      color: #0056b3;
-    }
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    ul li {
-      background: #d0e7ff;
-      margin: 0.5rem 0;
-      padding: 0.75rem 1rem;
-      border-radius: 6px;
-    }
-    .button-group {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-      justify-content: center;
-      margin-top: 1rem;
-    }
-    a.button {
-      background: #0056b3;
-      color: white;
-      padding: 0.75rem 1.5rem;
-      border-radius: 30px;
-      text-decoration: none;
-      font-weight: bold;
-      box-shadow: 0 4px 6px rgba(0, 86, 179, 0.4);
-      transition: background 0.3s ease;
-    }
-    a.button:hover {
-      background: #003d80;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1rem;
-    }
-    th, td {
-      border: 1px solid #91c9ff;
-      padding: 0.5rem;
-      text-align: center;
-    }
-    th {
-      background: #91c9ff;
-      color: #fff;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #e3f0ff;
-      font-size: 0.9rem;
-      color: #555;
-    }
-    .center {
-      text-align: center;
-    }
-  </style>
+  <title>CryBaby (CRYB)</title>
 </head>
 <body>
+  <header>
+    <h1>CryBaby (CRYB)</h1>
+    <p>“Cry now, moon later.”</p>
+  </header>
 
-<header>
-  <h1>CryBaby (CRYB)</h1>
-  <p>“Cry now, moon later.”</p>
-</header>
+  <main>
+    <section>
+      <h2>What is CryBaby?</h2>
+      <p>
+        CryBaby is the token for your inner crybaby, inspired by Pop Mart’s iconic figure — a symbol of sadness and happiness. 
+      </p>
+    </section>
 
-<main>
-
-  <section>
-    <h2>What is CryBaby?</h2>
-    <p>
-      CryBaby is the token for your inner crybaby, inspired by Pop Mart’s iconic figure — a symbol of sadness and happiness. 
-      It’s a Solana meme token built for vibes, tears, and a community of emotional degenerates. No promises, just feelings.
-    </p>
-  </section>
-
-  <section>
-    <h2>How to Buy</h2>
-    <ol>
-      <li>Add CRYB to your Solana wallet (Phantom, Solflare, etc.)</li>
-      <li>Go to Raydium or Jupiter</li>
-      <li>Swap SOL for CRYB</li>
-      <li>Cry happy tears 🍼</li>
-    </ol>
-    <div class="button-group">
-      <a href="https://raydium.io/swap" target="_blank" rel="noopener" class="button">Buy on Raydium</a>
-      <a href="https://solscan.io/token/your-token-address" target="_blank" rel="noopener" class="button">View on Solscan</a>
-      <a href="#" class="button" onclick="alert('Add CRYB token to your Phantom wallet using the token address!');">Add to Phantom</a>
-    </div>
-  </section>
-
-  <section>
-    <h2>Tokenomics</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Allocation</th>
-          <th>% of Supply</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr><td>Liquidity Pool (Raydium)</td><td>90%</td></tr>
-        <tr><td>Community Airdrops</td><td>5%</td></tr>
-        <tr><td>Dev Wallet (Future Growth)</td><td>5%</td></tr>
-        <tr><td>Mint Authority</td><td>Burned</td></tr>
-        <tr><td>Total Supply</td><td>Fixed</td></tr>
-      </tbody>
-    </table>
-  </section>
-
-  <section>
-    <h2>Roadmap</h2>
-    <ul>
-      <li><strong>Phase 1:</strong> Launch token, add liquidity, start socials, CryBaby meme contest</li>
-      <li><strong>Phase 2:</strong> NFT launch, partnerships, CrySpaces, website launch</li>
-      <li><strong>Phase 3:</strong> CryMeter mood tracker, merch, celebrity shoutouts</li>
-    </ul>
-  </section>
-
-  <section class="center">
-    <h2>Join the Cry Cult</h2>
-    <p>
-      <a href="https://twitter.com/crybabymeme" target="_blank" rel="noopener">Twitter</a> | 
-      <a href="https://t.me/crybabytoken" target="_blank" rel="noopener">Telegram</a> | 
-      <a href="https://discord.gg/crybaby" target="_blank" rel="noopener">Discord</a>
-    </p>
-    <p>
-      <a href="https://example.com/crybaby_whitepaper.pdf" target="_blank" rel="noopener" class="button">Download Whitepaper</a>
-    </p>
-  </section>
-
-</main>
-
-<footer>
-  &copy; 2025 CryBaby Meme Coin — This is a meme. Don’t invest more than you can cry about.
-</footer>
-
+    <section>
+      <h2>How to Buy</h2>
+      <ol>
+        <li>Add CRYB to your Solana wallet</li>
+        <li>Go to Raydium or Jupiter</li>
+        <li>Swap SOL for CRYB</li>
+      </ol>
+    </section>
+  </main>
 </body>
 </html>
